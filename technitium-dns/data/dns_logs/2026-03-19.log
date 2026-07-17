@@ -1,0 +1,50 @@
+[2026-03-19 23:08:22 Local] Logging started.
+[2026-03-19 23:08:22 Local] DNS Server failed to notify name server 'servermain' due to failure in resolving its IP address for zone: lab.local
+[2026-03-19 23:13:22 Local] DNS Server failed to notify name server 'servermain' due to failure in resolving its IP address for zone: lab.local
+[2026-03-19 23:14:30 Local] [172.18.0.1:44938] [admin] User logged in.
+[2026-03-19 23:14:31 Local] [172.18.0.1:44886] Check for update was done {updateAvailable: False; updateVersion: 14.3; updateTitle: New Update (14.3) Available!; updateMessage: Follow the instructions from the link below to update the DNS server to the latest version. Read the change logs before installing this update to know if there are any breaking changes.; instructionsLink: https://blog.technitium.com/2017/11/running-dns-server-on-ubuntu-linux.html; changeLogLink: https://github.com/TechnitiumSoftware/DnsServer/blob/master/CHANGELOG.md;}
+[2026-03-19 23:14:33 Local] DNS Server auth config file was saved: /etc/dns/auth.config
+[2026-03-19 23:18:22 Local] DNS Server failed to notify name server 'servermain' due to failure in resolving its IP address for zone: lab.local
+[2026-03-19 23:23:22 Local] DNS Server failed to notify name server 'servermain' due to failure in resolving its IP address for zone: lab.local
+[2026-03-19 23:28:22 Local] DNS Server failed to notify name server 'servermain' due to failure in resolving its IP address for zone: lab.local
+[2026-03-19 23:33:22 Local] DNS Server failed to notify name server 'servermain' due to failure in resolving its IP address for zone: lab.local
+[2026-03-19 23:38:22 Local] DNS Server failed to notify name server 'servermain' due to failure in resolving its IP address for zone: lab.local
+[2026-03-19 23:43:22 Local] DNS Server failed to notify name server 'servermain' due to failure in resolving its IP address for zone: lab.local
+[2026-03-19 23:48:22 Local] DNS Server failed to notify name server 'servermain' due to failure in resolving its IP address for zone: lab.local
+[2026-03-19 23:53:22 Local] DNS Server failed to notify name server 'servermain' due to failure in resolving its IP address for zone: lab.local
+[2026-03-19 23:58:22 Local] DNS Server failed to notify name server 'servermain' due to failure in resolving its IP address for zone: lab.local
+[2026-03-20 00:03:22 Local] Logging stopped.
+[2026-03-19 17:09:22 UTC] Logging started.
+[2026-03-19 17:09:22 UTC] DNS Server auth config file was saved: /etc/dns/auth.config
+[2026-03-19 17:09:22 UTC] DHCP Server successfully saved scope file: /etc/dns/scopes/Default.scope
+[2026-03-19 17:09:22 UTC] Web Service config file was saved: /etc/dns/webservice.config
+[2026-03-19 17:09:22 UTC] DNS Server config file was saved: /etc/dns/dns.config
+[2026-03-19 17:09:22 UTC] DNS Server allowed zone file was saved: /etc/dns/allowed.config
+[2026-03-19 17:09:22 UTC] DNS Server blocked zone file was saved: /etc/dns/blocked.config
+[2026-03-19 17:09:22 UTC] DNS Server block list config file was saved: /etc/dns/blocklist.config
+[2026-03-19 17:09:22 UTC] [[::]:5380] [HTTP] Web Service was bound successfully.
+[2026-03-19 17:09:22 UTC] [0.0.0.0:53] [UDP] DNS Server was bound successfully.
+[2026-03-19 17:09:22 UTC] [0.0.0.0:53] [TCP] DNS Server was bound successfully.
+[2026-03-19 17:09:22 UTC] [[::]:53] [UDP] DNS Server was bound successfully.
+[2026-03-19 17:09:22 UTC] [[::]:53] [TCP] DNS Server was bound successfully.
+[2026-03-19 17:09:22 UTC] DHCP Server successfully loaded scope: Default
+[2026-03-19 17:09:22 UTC] DNS Server (v14.3.0.0) was started successfully.
+[2026-03-19 17:09:27 UTC] DNS Server auth config file was saved: /etc/dns/auth.config
+[2026-03-19 17:11:07 UTC] DHCP Server successfully unloaded scope: Default
+[2026-03-19 17:11:07 UTC] Logging stopped.
+[2026-03-19 17:11:12 UTC] Logging started.
+[2026-03-19 17:11:12 UTC] DNS Server auth config file was saved: /etc/dns/auth.config
+[2026-03-19 17:11:12 UTC] DHCP Server successfully saved scope file: /etc/dns/scopes/Default.scope
+[2026-03-19 17:11:12 UTC] Web Service config file was saved: /etc/dns/webservice.config
+[2026-03-19 17:11:12 UTC] DNS Server config file was saved: /etc/dns/dns.config
+[2026-03-19 17:11:12 UTC] DNS Server allowed zone file was saved: /etc/dns/allowed.config
+[2026-03-19 17:11:12 UTC] DNS Server blocked zone file was saved: /etc/dns/blocked.config
+[2026-03-19 17:11:12 UTC] DNS Server block list config file was saved: /etc/dns/blocklist.config
+[2026-03-19 17:11:12 UTC] [[::]:5380] [HTTP] Web Service was bound successfully.
+[2026-03-19 17:11:12 UTC] [0.0.0.0:53] [UDP] DNS Server was bound successfully.
+[2026-03-19 17:11:12 UTC] [0.0.0.0:53] [TCP] DNS Server was bound successfully.
+[2026-03-19 17:11:12 UTC] [[::]:53] [UDP] DNS Server was bound successfully.
+[2026-03-19 17:11:12 UTC] [[::]:53] [TCP] DNS Server was bound successfully.
+[2026-03-19 17:11:12 UTC] DHCP Server successfully loaded scope: Default
+[2026-03-19 17:11:12 UTC] DNS Server (v14.3.0.0) was started successfully.
+[2026-03-19 17:11:17 UTC] DNS Server auth config file was saved: /etc/dns/auth.config

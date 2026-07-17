@@ -1,0 +1,9 @@
+[2026-03-20 00:03:22 Local] Logging started.
+[2026-03-20 00:03:22 Local] DNS Server failed to notify name server 'servermain' due to failure in resolving its IP address for zone: lab.local
+[2026-03-20 00:08:22 Local] DNS Server failed to notify name server 'servermain' due to failure in resolving its IP address for zone: lab.local
+[2026-03-20 00:09:14 Local] DHCP Server successfully unloaded scope: Default
+[2026-03-20 00:09:14 Local] Saving DNS Cache to disk...
+[2026-03-20 00:09:14 Local] DNS Cache was saved to disk successfully.
+[2026-03-20 00:09:14 Local] DNS Server (v14.3.0.0) was stopped successfully.
+[2026-03-20 00:09:14 Local] DNS Server auth config file was saved: /etc/dns/auth.config
+[2026-03-20 00:09:14 Local] Logging stopped.

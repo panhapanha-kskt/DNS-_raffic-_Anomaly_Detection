@@ -1,0 +1,8 @@
+filebeat.inputs:
+- type: log
+  enabled: true
+  paths:
+    - /var/log/technitium/*.log  # Filebeat reads from the mapped volume
+
+output.logstash:
+  hosts: ["logstash:5044"]
