@@ -1,4 +1,4 @@
-# Research-Aligned DNS Traffic Anomaly Detection Using Hybrid Machine Learning Fusion
+# DNS Traffic Anomaly Detection Using Hybrid Machine Learning Fusion
 
 **Institution:** Ministry of Post and Telecommunications Institute of Digital Technology 
 
@@ -8,7 +8,7 @@
 
 **Advisor:** Mr. Roeum Makara
 
-Members: Mao Sovanrathana, Vutthin Vattanak, Ken Chomnan, Tith Sopanha
+**Members:** Mao Sovanrathana, Vutthin Vattanak, Ken Chomnan, Tith Sopanha
 
 ---
 
