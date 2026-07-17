@@ -1,0 +1,7 @@
+
+[0;36m  ℹ  Script dir    : /home/paifern/DNS-_raffic-_Anomaly_Detection/scripts[0m
+[0;36m  ℹ  Model memory  : /home/paifern/DNS-_raffic-_Anomaly_Detection/model_memory[0m
+[0;36m  ℹ  Data dir      : /home/paifern/DNS-_raffic-_Anomaly_Detection/data[0m
+[0;36m  ℹ  Log file      : /home/paifern/DNS-_raffic-_Anomaly_Detection/logs/training_20260318_025042.log[0m
+[0;36m  ℹ  Training mode — RETRAIN: false  |  FORCE_RETRAIN: false[0m
+[0;36m  ℹ  Training needed — Path A: true  |  Path B: true[0m
